@@ -23,7 +23,9 @@ kramdown:
 sass:
     style: compressed
 #exclude: ['/misc']
-
+plugins:
+    - jekyll-remote-theme
+    
 # ---------
 # LIBDOC CONFIGURATION
 # https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-config.html

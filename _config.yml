@@ -8,8 +8,8 @@ title: S2EMAP # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   A single HTML map file bundled with customizable popular Leaflet plugins, map providers and its own API
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
-url: https://olivier3lanc.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /jekremote # the subpath of your site, e.g. /blog
+# url: https://olivier3lanc.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: /jekremote # the subpath of your site, e.g. /blog
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]

@@ -24,8 +24,6 @@ kramdown:
 sass:
     style: compressed
 #exclude: ['/misc']
-plugins:
-    - jekyll-remote-theme
     
 # ---------
 # LIBDOC CONFIGURATION

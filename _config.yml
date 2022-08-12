@@ -2,8 +2,8 @@
 # JEKYLL CONFIGURATION
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
-# remote_theme: just-the-docs/just-the-docs
-remote_theme: olivier3lanc/Jekyll-LibDoc@remote
+remote_theme: just-the-docs/just-the-docs
+# remote_theme: olivier3lanc/Jekyll-LibDoc@remote
 title: S2EMAP # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   A single HTML map file bundled with customizable popular Leaflet plugins, map providers and its own API

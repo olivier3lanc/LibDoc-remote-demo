@@ -1,7 +1,7 @@
 ---
 title: Hello World !
 description: This is the very beginning of a pretty documentation
-layout: libdoc/page
+# layout: libdoc/page
 permalink: index.html
 ---
 

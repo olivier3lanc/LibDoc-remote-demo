@@ -3,8 +3,8 @@
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
 # remote_theme: just-the-docs/just-the-docs
-remote_theme: olivier3lanc/Jekyll-LibDoc@remote_friendly
-title: S5EMAP # title of the documentation
+remote_theme: olivier3lanc/Jekyll-LibDoc@develop
+title: S6EMAP # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   A single HTML map file bundled with customizable popular Leaflet plugins, map providers and its own API
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong

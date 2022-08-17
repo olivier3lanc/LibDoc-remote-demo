@@ -2,8 +2,8 @@
 # JEKYLL CONFIGURATION
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
-# TO USE JEKYLL LIBDOC AS REMOTE THEME (available only on Github)
-remote_theme: olivier3lanc/Jekyll-LibDoc@develop
+# TO USE JEKYLL LIBDOC AS REMOTE THEME, UNCOMMENT (available only on Github)
+remote_theme: olivier3lanc/Jekyll-LibDoc
 title: Jekyll LibDoc as remote theme
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   An example of a repository using Jekyll LibDoc as a remote theme

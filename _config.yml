@@ -2,11 +2,11 @@
 # JEKYLL CONFIGURATION
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
-# remote_theme: just-the-docs/just-the-docs
+# TO USE JEKYLL LIBDOC AS REMOTE THEME (available only on Github)
 remote_theme: olivier3lanc/Jekyll-LibDoc@develop
-title: LibDoc remote # title of the documentation
+title: Jekyll LibDoc as remote theme
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  A Jekyll documentation remote theme with built-in search and playground
+  An example of a repository using Jekyll LibDoc as a remote theme
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://localhost # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog

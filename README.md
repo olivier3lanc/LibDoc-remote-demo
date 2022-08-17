@@ -1,9 +1,17 @@
 ---
-title: Jekyll LibDoc remote theme
-description: An example of a repository using Jekyll LibDoc as a remote theme
 permalink: index.html
 ---
-This repository contains only the configuration and the content of [Jekyll LibDoc theme](https://github.com/olivier3lanc/Jekyll-LibDoc). Simply add or uncomment the following line into the `_config.yml` file:
+This repository contains only the configuration and the content of [Jekyll LibDoc theme](https://github.com/olivier3lanc/Jekyll-LibDoc).
+
+*Available only on GitHub*. The most simple way to use LibDoc is the [remote theme feature of Github Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme). Follow these steps:
+
+1. **Create a repository** <br>Just add a new repository on your GitHub account, this directory is an example.<br><br>
+2. **Create a LibDoc config file** <br>Create and configure your LibDoc config file called [_config.yml](libdoc-config.html), required for GitHub Pages, do not forget to add/uncomment the following line:<br>`remote_theme: olivier3lanc/Jekyll-LibDoc`<br>[View a _config.yml example](https://github.com/olivier3lanc/LibDoc-remote-demo/blob/main/_config.yml)<br><br>
+3. **Enable Github Pages** <br>To automatically compile your LibDoc project, just enable GitHub Pages at `https://github.com/[GH_USER_NAME]/[REPO_NAME]/settings/pages`. Each time you commit and push on the specified branch, [Github Pages](https://pages.github.com) builds and hosts your project on the URL `https://[GH_USER_NAME].github.io/[REPO_NAME]`.
+
+Your repository is now ready to be deployed as GitHub Pages website.
+
+ Simply add or uncomment the following line into the `_config.yml` file:
 
 ```yaml
 # ADD/UNCOMMENT THIS LINE INTO YOUR YAML CONFIG FILE

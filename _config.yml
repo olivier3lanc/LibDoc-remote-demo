@@ -187,6 +187,10 @@ sidebar:
             title: Scroll Frames
             order: 500
             category: Examples using LibDoc
+        -   url: https://olivier3lanc.github.io/seemap/
+            title: SEEMAP
+            order: 500
+            category: Examples using LibDoc
         # Example remote URL
         -   url: https://github.com/olivier3lanc/Jekyll-LibDoc
             title: <span class="i-github u-mr-xxs"></span> Jekyll LibDoc

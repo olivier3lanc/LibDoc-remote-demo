@@ -182,12 +182,16 @@ sidebar:
         -   url: https://olivier3lanc.github.io/Scroll-Btween/
             title: Scroll Btween
             order: 500
-            category: Showcase
+            category: Examples using LibDoc
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
             title: Scroll Frames
             order: 500
-            category: Showcase
+            category: Examples using LibDoc
         # Example remote URL
+        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc
+            title: <span class="i-github u-mr-xxs"></span> Jekyll LibDoc
+            order: 510
+            category: External resources
         -   url: https://pages.github.com
             title: Github Pages
             order: 510

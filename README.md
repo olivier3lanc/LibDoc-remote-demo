@@ -1,6 +1,6 @@
 # Jekyll LibDoc locally as remote theme
 
-This branch is a simple example of a repository that you can **build locally with Jekyll LibDoc as remote theme**.
+This `local`branch is a simple example of a repository that you can **build locally with Jekyll LibDoc as remote theme**.
 
 1. Install Jekyll on your machine following the steps described [here](https://jekyllrb.com/docs/)
 2. Add a Gemfile with the following line
